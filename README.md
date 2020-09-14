@@ -1,5 +1,5 @@
 # sarcasmDetection
+Dieses Repository enthält ein Jupyter Notebook. Darin werden verschiedene Models zur Sarkasmuserkennung trainiert.
 
-Der finale Datensatz mit allen Features, der im Notebook verwendet wurden, befinden sich im Zip-File, welches ebenfalls hier im Repository liegt.
-Das Originaldatenset ist hier zu finden:
-https://raw.githubusercontent.com/rishabhmisra/News-Headlines-Dataset-For-Sarcasm-Detection/master/Sarcasm_Headlines_Dataset.json"
+Die Datensätze mit allen verwendeten Features, die im Notebook verwendet wurden, befinden sich im Zip-File, welches ebenfalls hier im Repository liegt.
+Die zugrundeliegenden Daten stammen aus https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection?select=Sarcasm_Headlines_Dataset.json
